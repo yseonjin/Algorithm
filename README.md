@@ -38,11 +38,10 @@ public class jv01 {
 }
 
   
-  ~~~
+~~~
   <br><br>
   
-  
-    ~~~java
+~~~java
   package algori_01;
 
 public class jv02 {
@@ -66,11 +65,10 @@ public class jv02 {
 	}
 	
 }
-
-  ~~~
+~~~
   <br><br>
   
-    ~~~java
+~~~java
   package algori_01;
 
 import java.util.Scanner;
@@ -91,10 +89,10 @@ public class jv03 {
 
 }
 
-  ~~~
+~~~
   <br><br>
   
-    ~~~java
+~~~java
   package algori_01;
 
 import java.util.Scanner;
@@ -116,10 +114,10 @@ public class jv04 {
 
 }
 
-  ~~~
+~~~
   <br><br>
   
-    ~~~java
+~~~java
   package algori_01;
 
 public class jv05 {
@@ -138,10 +136,9 @@ public class jv05 {
 
 }
 
-  ~~~
+~~~
   <br><br>
-  
-    ~~~java
+~~~java
   package algori_01;
 
 public class jv06 {
@@ -162,10 +159,10 @@ public class jv06 {
 	}
 
 }
-  ~~~
+~~~
   <br><br>
   
-    ~~~java
+~~~java
   package algori_01;
 
 import java.util.Scanner;
@@ -187,6 +184,6 @@ public class jv07 {
 
 }
 
-  ~~~
+~~~
   <br><br>
   
